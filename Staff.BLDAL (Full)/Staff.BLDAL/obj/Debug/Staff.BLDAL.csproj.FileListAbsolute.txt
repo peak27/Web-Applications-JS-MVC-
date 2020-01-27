@@ -1,0 +1,13 @@
+C:\Users\mjpk2\source\repos\Staff.BLDAL\Staff.BLDAL\bin\Debug\Staff.BLDAL.dll
+C:\Users\mjpk2\source\repos\Staff.BLDAL\Staff.BLDAL\bin\Debug\Staff.BLDAL.pdb
+C:\Users\mjpk2\source\repos\Staff.BLDAL\Staff.BLDAL\obj\Debug\Staff.BLDAL.csprojAssemblyReference.cache
+C:\Users\mjpk2\source\repos\Staff.BLDAL\Staff.BLDAL\obj\Debug\Staff.BLDAL.dll
+C:\Users\mjpk2\source\repos\Staff.BLDAL\Staff.BLDAL\obj\Debug\Staff.BLDAL.pdb
+C:\Users\mjpk2\source\repos\Staff.BLDAL\Staff.BLDAL\bin\Debug\Staff.BLDAL.dll.config
+F:\Users\mjpk2\OneDrive\Desktop\Documents\Fall 2019\IT 483\Web Apps\Staff.BLDAL\Staff.BLDAL\bin\Debug\Staff.BLDAL.dll.config
+F:\Users\mjpk2\OneDrive\Desktop\Documents\Fall 2019\IT 483\Web Apps\Staff.BLDAL\Staff.BLDAL\bin\Debug\Staff.BLDAL.dll
+F:\Users\mjpk2\OneDrive\Desktop\Documents\Fall 2019\IT 483\Web Apps\Staff.BLDAL\Staff.BLDAL\bin\Debug\Staff.BLDAL.pdb
+F:\Users\mjpk2\OneDrive\Desktop\Documents\Fall 2019\IT 483\Web Apps\Staff.BLDAL\Staff.BLDAL\obj\Debug\Staff.BLDAL.csprojAssemblyReference.cache
+F:\Users\mjpk2\OneDrive\Desktop\Documents\Fall 2019\IT 483\Web Apps\Staff.BLDAL\Staff.BLDAL\obj\Debug\Staff.BLDAL.csproj.CoreCompileInputs.cache
+F:\Users\mjpk2\OneDrive\Desktop\Documents\Fall 2019\IT 483\Web Apps\Staff.BLDAL\Staff.BLDAL\obj\Debug\Staff.BLDAL.dll
+F:\Users\mjpk2\OneDrive\Desktop\Documents\Fall 2019\IT 483\Web Apps\Staff.BLDAL\Staff.BLDAL\obj\Debug\Staff.BLDAL.pdb
