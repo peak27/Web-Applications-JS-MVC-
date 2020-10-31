@@ -18,8 +18,3 @@ Also you may find some CSS & HTML techniques to enhance your designing skills as
 
 ## Contributing
 &nbsp;&nbsp;&nbsp;Good source to learn some basic developnment using JavaScript, HTML5, CSS and C#.
-
-## Credits 
-&nbsp;&nbsp;&nbsp;This was an individual project.
-
-**License:** Licenced by me.
